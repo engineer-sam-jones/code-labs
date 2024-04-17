@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="android_logo_content_description">Android logo</string>
+    <string name="title_text">Android Developer</string>
+    <string name="name_text">Jane Doe</string>
+    <string name="phone_number_content_description">Phone number</string>
+    <string name="phone_number_text">(000) 000-0000</string>
+    <string name="social_media_text">\@social-media.com</string>
+    <string name="social_media_content_description">Social media handle</string>
+    <string name="email_content_description">Email address</string>
+    <string name="email_text">name@email.com</string>
+</resources>
